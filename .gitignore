@@ -1,0 +1,12 @@
+/vendor
+/node_modules
+.env
+/uploads
+/nbproject
+/users_sheet
+/storage/*
+nbproject/private/
+/nbproject
+/nbproject/private/private.xml
+/old
+/mailoutput
